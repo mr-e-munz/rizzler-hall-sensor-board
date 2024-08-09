@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=lazer-sensor-for-trespassers.SchDoc
+DocumentPath=rizzler-hall-sensor-board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PCDXPLWF
 
 [Document3]
-DocumentPath=lazer-sensor-for-trespassers.SchLib
+DocumentPath=rizzler-hall-sensor-board.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WZQYFLVT
 
 [Document4]
-DocumentPath=lazer-sensor-for-trespassers.PcbLib
+DocumentPath=rizzler-hall-sensor-board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EEVENKAI
 
 [Document5]
-DocumentPath=lazer-sensor-for-trespassers.PcbDoc
+DocumentPath=rizzler-hall-sensor-board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

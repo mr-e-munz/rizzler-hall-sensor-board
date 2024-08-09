@@ -16,20 +16,5 @@ Design Requirements:
 
 Components:
  - use TCS40DLR for hall effect sensor
- - use BT832AF for BLE SoC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ - use RF Star RF-BM-ND04C for BLE SoC module
 
