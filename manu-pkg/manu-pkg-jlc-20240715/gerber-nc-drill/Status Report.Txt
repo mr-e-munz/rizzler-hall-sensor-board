@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [lazer-sensor-for-trespassers.PrjPcb]
+   Generated File[lazer-sensor-for-trespassers.TXT]
+   Generated File[lazer-sensor-for-trespassers.LDP]
+   Generated File[lazer-sensor-for-trespassers.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:11:22 PM On 18/07/2024
